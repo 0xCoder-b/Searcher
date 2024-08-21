@@ -1,0 +1,7 @@
+{
+    "search":"search_web",
+    "webCrawl":"install_web",
+    "currency": "convert_currency",
+    "igdump": "igProfile",
+    "exit": "exitSys"
+}
